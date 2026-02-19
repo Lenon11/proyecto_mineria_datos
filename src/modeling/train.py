@@ -1,0 +1,1 @@
+# Lógica de entrenamiento y validación cruzada

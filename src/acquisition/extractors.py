@@ -1,0 +1,1 @@
+# Clases base y generadores para leer CSV/JSON/EXCEL/IMAGE/VIDEO/AUDIO/
