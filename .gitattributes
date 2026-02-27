@@ -1,0 +1,2 @@
+data/raw/SESNSP_incidencia_municipal.csv filter=lfs diff=lfs merge=lfs -text
+data/raw/mun_jal.geojson filter=lfs diff=lfs merge=lfs -text
