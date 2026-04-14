@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
 
-from delitos_region import (
+from src.processing.delitos_region import (
     preparar_base_delitos,
     tabla_relacion_tipo_region_tiempo,
     top_crecimiento_reduccion,
