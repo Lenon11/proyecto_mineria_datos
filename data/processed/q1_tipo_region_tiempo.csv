@@ -1,0 +1,881 @@
+Año,zona_geografica,Tipo de delito,Total_Anual
+2015,AMG,Robo,16515
+2015,AMG,Lesiones,7245
+2015,AMG,Violencia familiar,7020
+2015,AMG,Otros delitos del Fuero Común,6430
+2015,AMG,Amenazas,6012
+2015,AMG,Daño a la propiedad,4850
+2015,AMG,Fraude,4558
+2015,AMG,Narcomenudeo,4393
+2015,AMG,Abuso sexual,1018
+2015,AMG,Delitos cometidos por servidores públicos,992
+2015,AMG,Homicidio,943
+2015,AMG,Despojo,791
+2015,AMG,Otros delitos contra la familia,729
+2015,AMG,Falsificación,708
+2015,AMG,Extorsión,475
+2015,AMG,Abuso de confianza,384
+2015,AMG,Allanamiento de morada,303
+2015,AMG,Violación simple,251
+2015,AMG,Otros delitos que atentan contra la libertad personal,248
+2015,AMG,Falsedad,122
+2015,AMG,Otros delitos que atentan contra la libertad y la seguridad sexual,109
+2015,AMG,Corrupción de menores,98
+2015,AMG,Acoso sexual,90
+2015,AMG,Feminicidio,38
+2015,AMG,Hostigamiento sexual,19
+2015,AMG,Electorales,18
+2015,AMG,Aborto,15
+2015,AMG,Secuestro,11
+2015,AMG,Contra el medio ambiente,9
+2015,AMG,Violación equiparada,5
+2015,AMG,Evasión de presos,4
+2015,AMG,Tráfico de menores,3
+2015,AMG,Incesto,0
+2015,AMG,Incumplimiento de obligaciones de asistencia familiar,0
+2015,AMG,Otros delitos contra el patrimonio,0
+2015,AMG,Otros delitos contra la sociedad,0
+2015,AMG,Otros delitos que atentan contra la vida y la integridad corporal,0
+2015,AMG,Rapto,0
+2015,AMG,Trata de personas,0
+2015,AMG,Violencia de género en todas sus modalidades distinta a la violencia familiar,0
+2015,Interior,Robo,10932
+2015,Interior,Lesiones,3837
+2015,Interior,Daño a la propiedad,2541
+2015,Interior,Amenazas,1548
+2015,Interior,Otros delitos del Fuero Común,1533
+2015,Interior,Fraude,1523
+2015,Interior,Violencia familiar,1362
+2015,Interior,Homicidio,787
+2015,Interior,Despojo,654
+2015,Interior,Narcomenudeo,644
+2015,Interior,Falsificación,579
+2015,Interior,Otros delitos contra la familia,574
+2015,Interior,Abuso sexual,518
+2015,Interior,Abuso de confianza,388
+2015,Interior,Extorsión,320
+2015,Interior,Delitos cometidos por servidores públicos,299
+2015,Interior,Allanamiento de morada,248
+2015,Interior,Otros delitos que atentan contra la libertad personal,157
+2015,Interior,Violación simple,106
+2015,Interior,Falsedad,76
+2015,Interior,Otros delitos que atentan contra la libertad y la seguridad sexual,47
+2015,Interior,Acoso sexual,36
+2015,Interior,Corrupción de menores,29
+2015,Interior,Feminicidio,24
+2015,Interior,Electorales,23
+2015,Interior,Secuestro,9
+2015,Interior,Contra el medio ambiente,8
+2015,Interior,Aborto,6
+2015,Interior,Hostigamiento sexual,4
+2015,Interior,Evasión de presos,3
+2015,Interior,Incesto,1
+2015,Interior,Violación equiparada,1
+2015,Interior,Incumplimiento de obligaciones de asistencia familiar,0
+2015,Interior,Otros delitos contra el patrimonio,0
+2015,Interior,Otros delitos contra la sociedad,0
+2015,Interior,Otros delitos que atentan contra la vida y la integridad corporal,0
+2015,Interior,Rapto,0
+2015,Interior,Trata de personas,0
+2015,Interior,Tráfico de menores,0
+2015,Interior,Violencia de género en todas sus modalidades distinta a la violencia familiar,0
+2016,AMG,Robo,44101
+2016,AMG,Lesiones,8590
+2016,AMG,Violencia familiar,8572
+2016,AMG,Otros delitos del Fuero Común,8366
+2016,AMG,Amenazas,6809
+2016,AMG,Daño a la propiedad,5174
+2016,AMG,Fraude,4791
+2016,AMG,Abuso sexual,1615
+2016,AMG,Narcomenudeo,1564
+2016,AMG,Otros delitos contra la familia,1350
+2016,AMG,Homicidio,1074
+2016,AMG,Despojo,999
+2016,AMG,Delitos cometidos por servidores públicos,828
+2016,AMG,Abuso de confianza,808
+2016,AMG,Falsificación,658
+2016,AMG,Extorsión,407
+2016,AMG,Otros delitos que atentan contra la libertad personal,322
+2016,AMG,Violación simple,303
+2016,AMG,Allanamiento de morada,295
+2016,AMG,Falsedad,164
+2016,AMG,Corrupción de menores,154
+2016,AMG,Otros delitos que atentan contra la libertad y la seguridad sexual,153
+2016,AMG,Acoso sexual,149
+2016,AMG,Hostigamiento sexual,98
+2016,AMG,Contra el medio ambiente,67
+2016,AMG,Incesto,25
+2016,AMG,Feminicidio,21
+2016,AMG,Aborto,19
+2016,AMG,Evasión de presos,8
+2016,AMG,Secuestro,7
+2016,AMG,Tráfico de menores,3
+2016,AMG,Violación equiparada,3
+2016,AMG,Electorales,0
+2016,AMG,Incumplimiento de obligaciones de asistencia familiar,0
+2016,AMG,Otros delitos contra el patrimonio,0
+2016,AMG,Otros delitos contra la sociedad,0
+2016,AMG,Otros delitos que atentan contra la vida y la integridad corporal,0
+2016,AMG,Rapto,0
+2016,AMG,Trata de personas,0
+2016,AMG,Violencia de género en todas sus modalidades distinta a la violencia familiar,0
+2016,Interior,Robo,11764
+2016,Interior,Lesiones,3935
+2016,Interior,Daño a la propiedad,3030
+2016,Interior,Violencia familiar,1973
+2016,Interior,Otros delitos del Fuero Común,1700
+2016,Interior,Amenazas,1435
+2016,Interior,Fraude,1391
+2016,Interior,Homicidio,924
+2016,Interior,Despojo,715
+2016,Interior,Falsificación,689
+2016,Interior,Narcomenudeo,596
+2016,Interior,Abuso sexual,581
+2016,Interior,Otros delitos contra la familia,529
+2016,Interior,Abuso de confianza,349
+2016,Interior,Allanamiento de morada,256
+2016,Interior,Delitos cometidos por servidores públicos,245
+2016,Interior,Extorsión,233
+2016,Interior,Otros delitos que atentan contra la libertad personal,153
+2016,Interior,Violación simple,128
+2016,Interior,Otros delitos que atentan contra la libertad y la seguridad sexual,60
+2016,Interior,Falsedad,54
+2016,Interior,Contra el medio ambiente,44
+2016,Interior,Corrupción de menores,39
+2016,Interior,Acoso sexual,38
+2016,Interior,Feminicidio,27
+2016,Interior,Secuestro,9
+2016,Interior,Aborto,8
+2016,Interior,Hostigamiento sexual,8
+2016,Interior,Incesto,6
+2016,Interior,Trata de personas,2
+2016,Interior,Evasión de presos,1
+2016,Interior,Tráfico de menores,1
+2016,Interior,Violación equiparada,1
+2016,Interior,Electorales,0
+2016,Interior,Incumplimiento de obligaciones de asistencia familiar,0
+2016,Interior,Otros delitos contra el patrimonio,0
+2016,Interior,Otros delitos contra la sociedad,0
+2016,Interior,Otros delitos que atentan contra la vida y la integridad corporal,0
+2016,Interior,Rapto,0
+2016,Interior,Violencia de género en todas sus modalidades distinta a la violencia familiar,0
+2017,AMG,Robo,73241
+2017,AMG,Lesiones,9387
+2017,AMG,Otros delitos del Fuero Común,7829
+2017,AMG,Amenazas,7637
+2017,AMG,Violencia familiar,7356
+2017,AMG,Daño a la propiedad,5865
+2017,AMG,Fraude,5223
+2017,AMG,Abuso sexual,1567
+2017,AMG,Abuso de confianza,1511
+2017,AMG,Homicidio,1287
+2017,AMG,Narcomenudeo,1257
+2017,AMG,Despojo,1193
+2017,AMG,Otros delitos contra la familia,898
+2017,AMG,Delitos cometidos por servidores públicos,877
+2017,AMG,Falsificación,478
+2017,AMG,Violación simple,362
+2017,AMG,Otros delitos que atentan contra la libertad personal,360
+2017,AMG,Extorsión,282
+2017,AMG,Allanamiento de morada,273
+2017,AMG,Corrupción de menores,150
+2017,AMG,Otros delitos que atentan contra la libertad y la seguridad sexual,130
+2017,AMG,Acoso sexual,113
+2017,AMG,Hostigamiento sexual,99
+2017,AMG,Falsedad,98
+2017,AMG,Contra el medio ambiente,21
+2017,AMG,Aborto,16
+2017,AMG,Feminicidio,14
+2017,AMG,Secuestro,3
+2017,AMG,Trata de personas,1
+2017,AMG,Electorales,0
+2017,AMG,Evasión de presos,0
+2017,AMG,Incesto,0
+2017,AMG,Incumplimiento de obligaciones de asistencia familiar,0
+2017,AMG,Otros delitos contra el patrimonio,0
+2017,AMG,Otros delitos contra la sociedad,0
+2017,AMG,Otros delitos que atentan contra la vida y la integridad corporal,0
+2017,AMG,Rapto,0
+2017,AMG,Tráfico de menores,0
+2017,AMG,Violación equiparada,0
+2017,AMG,Violencia de género en todas sus modalidades distinta a la violencia familiar,0
+2017,Interior,Robo,11404
+2017,Interior,Lesiones,4120
+2017,Interior,Daño a la propiedad,3524
+2017,Interior,Amenazas,1923
+2017,Interior,Violencia familiar,1919
+2017,Interior,Otros delitos del Fuero Común,1674
+2017,Interior,Fraude,1574
+2017,Interior,Falsificación,837
+2017,Interior,Homicidio,813
+2017,Interior,Despojo,735
+2017,Interior,Abuso sexual,673
+2017,Interior,Otros delitos contra la familia,625
+2017,Interior,Narcomenudeo,488
+2017,Interior,Abuso de confianza,483
+2017,Interior,Delitos cometidos por servidores públicos,299
+2017,Interior,Extorsión,239
+2017,Interior,Allanamiento de morada,195
+2017,Interior,Otros delitos que atentan contra la libertad personal,153
+2017,Interior,Violación simple,78
+2017,Interior,Falsedad,60
+2017,Interior,Acoso sexual,44
+2017,Interior,Otros delitos que atentan contra la libertad y la seguridad sexual,42
+2017,Interior,Corrupción de menores,31
+2017,Interior,Feminicidio,13
+2017,Interior,Aborto,12
+2017,Interior,Contra el medio ambiente,10
+2017,Interior,Secuestro,10
+2017,Interior,Hostigamiento sexual,9
+2017,Interior,Electorales,0
+2017,Interior,Evasión de presos,0
+2017,Interior,Incesto,0
+2017,Interior,Incumplimiento de obligaciones de asistencia familiar,0
+2017,Interior,Otros delitos contra el patrimonio,0
+2017,Interior,Otros delitos contra la sociedad,0
+2017,Interior,Otros delitos que atentan contra la vida y la integridad corporal,0
+2017,Interior,Rapto,0
+2017,Interior,Trata de personas,0
+2017,Interior,Tráfico de menores,0
+2017,Interior,Violación equiparada,0
+2017,Interior,Violencia de género en todas sus modalidades distinta a la violencia familiar,0
+2018,AMG,Robo,72207
+2018,AMG,Otros delitos del Fuero Común,8772
+2018,AMG,Lesiones,8192
+2018,AMG,Amenazas,7027
+2018,AMG,Violencia familiar,6518
+2018,AMG,Daño a la propiedad,5654
+2018,AMG,Fraude,5335
+2018,AMG,Narcomenudeo,1901
+2018,AMG,Homicidio,1880
+2018,AMG,Abuso de confianza,1511
+2018,AMG,Abuso sexual,1364
+2018,AMG,Despojo,1202
+2018,AMG,Otros delitos contra la familia,868
+2018,AMG,Falsificación,846
+2018,AMG,Extorsión,439
+2018,AMG,Delitos cometidos por servidores públicos,420
+2018,AMG,Otros delitos que atentan contra la libertad personal,393
+2018,AMG,Violación simple,263
+2018,AMG,Acoso sexual,208
+2018,AMG,Allanamiento de morada,202
+2018,AMG,Falsedad,137
+2018,AMG,Corrupción de menores,103
+2018,AMG,Otros delitos que atentan contra la libertad y la seguridad sexual,92
+2018,AMG,Contra el medio ambiente,74
+2018,AMG,Electorales,46
+2018,AMG,Hostigamiento sexual,34
+2018,AMG,Feminicidio,22
+2018,AMG,Aborto,14
+2018,AMG,Secuestro,10
+2018,AMG,Evasión de presos,8
+2018,AMG,Tráfico de menores,3
+2018,AMG,Violación equiparada,2
+2018,AMG,Incesto,1
+2018,AMG,Trata de personas,1
+2018,AMG,Incumplimiento de obligaciones de asistencia familiar,0
+2018,AMG,Otros delitos contra el patrimonio,0
+2018,AMG,Otros delitos contra la sociedad,0
+2018,AMG,Otros delitos que atentan contra la vida y la integridad corporal,0
+2018,AMG,Rapto,0
+2018,AMG,Violencia de género en todas sus modalidades distinta a la violencia familiar,0
+2018,Interior,Robo,10951
+2018,Interior,Lesiones,4016
+2018,Interior,Daño a la propiedad,3423
+2018,Interior,Amenazas,2285
+2018,Interior,Violencia familiar,2231
+2018,Interior,Fraude,1634
+2018,Interior,Otros delitos del Fuero Común,1631
+2018,Interior,Homicidio,873
+2018,Interior,Falsificación,821
+2018,Interior,Despojo,754
+2018,Interior,Abuso sexual,663
+2018,Interior,Otros delitos contra la familia,520
+2018,Interior,Abuso de confianza,459
+2018,Interior,Narcomenudeo,415
+2018,Interior,Extorsión,316
+2018,Interior,Allanamiento de morada,224
+2018,Interior,Delitos cometidos por servidores públicos,185
+2018,Interior,Otros delitos que atentan contra la libertad personal,158
+2018,Interior,Violación simple,109
+2018,Interior,Acoso sexual,59
+2018,Interior,Falsedad,53
+2018,Interior,Electorales,50
+2018,Interior,Otros delitos que atentan contra la libertad y la seguridad sexual,48
+2018,Interior,Corrupción de menores,42
+2018,Interior,Contra el medio ambiente,36
+2018,Interior,Hostigamiento sexual,28
+2018,Interior,Feminicidio,12
+2018,Interior,Secuestro,6
+2018,Interior,Aborto,3
+2018,Interior,Evasión de presos,3
+2018,Interior,Tráfico de menores,1
+2018,Interior,Incesto,0
+2018,Interior,Incumplimiento de obligaciones de asistencia familiar,0
+2018,Interior,Otros delitos contra el patrimonio,0
+2018,Interior,Otros delitos contra la sociedad,0
+2018,Interior,Otros delitos que atentan contra la vida y la integridad corporal,0
+2018,Interior,Rapto,0
+2018,Interior,Trata de personas,0
+2018,Interior,Violación equiparada,0
+2018,Interior,Violencia de género en todas sus modalidades distinta a la violencia familiar,0
+2019,AMG,Robo,67181
+2019,AMG,Otros delitos del Fuero Común,9424
+2019,AMG,Amenazas,8181
+2019,AMG,Lesiones,7902
+2019,AMG,Violencia familiar,7676
+2019,AMG,Fraude,5391
+2019,AMG,Daño a la propiedad,5130
+2019,AMG,Homicidio,1808
+2019,AMG,Abuso de confianza,1711
+2019,AMG,Abuso sexual,1513
+2019,AMG,Narcomenudeo,1319
+2019,AMG,Despojo,1298
+2019,AMG,Falsificación,956
+2019,AMG,Otros delitos contra la familia,797
+2019,AMG,Otros delitos que atentan contra la libertad personal,548
+2019,AMG,Extorsión,417
+2019,AMG,Violación simple,332
+2019,AMG,Acoso sexual,223
+2019,AMG,Delitos cometidos por servidores públicos,173
+2019,AMG,Allanamiento de morada,170
+2019,AMG,Falsedad,147
+2019,AMG,Otros delitos que atentan contra la libertad y la seguridad sexual,131
+2019,AMG,Corrupción de menores,94
+2019,AMG,Hostigamiento sexual,53
+2019,AMG,Feminicidio,50
+2019,AMG,Contra el medio ambiente,41
+2019,AMG,Secuestro,15
+2019,AMG,Electorales,8
+2019,AMG,Trata de personas,4
+2019,AMG,Aborto,2
+2019,AMG,Evasión de presos,0
+2019,AMG,Incesto,0
+2019,AMG,Incumplimiento de obligaciones de asistencia familiar,0
+2019,AMG,Otros delitos contra el patrimonio,0
+2019,AMG,Otros delitos contra la sociedad,0
+2019,AMG,Otros delitos que atentan contra la vida y la integridad corporal,0
+2019,AMG,Rapto,0
+2019,AMG,Tráfico de menores,0
+2019,AMG,Violación equiparada,0
+2019,AMG,Violencia de género en todas sus modalidades distinta a la violencia familiar,0
+2019,Interior,Robo,8702
+2019,Interior,Lesiones,3768
+2019,Interior,Daño a la propiedad,3385
+2019,Interior,Violencia familiar,3147
+2019,Interior,Amenazas,2621
+2019,Interior,Fraude,1685
+2019,Interior,Otros delitos del Fuero Común,1547
+2019,Interior,Homicidio,929
+2019,Interior,Despojo,753
+2019,Interior,Falsificación,738
+2019,Interior,Abuso sexual,715
+2019,Interior,Otros delitos contra la familia,567
+2019,Interior,Abuso de confianza,543
+2019,Interior,Narcomenudeo,395
+2019,Interior,Extorsión,295
+2019,Interior,Allanamiento de morada,166
+2019,Interior,Delitos cometidos por servidores públicos,138
+2019,Interior,Violación simple,100
+2019,Interior,Otros delitos que atentan contra la libertad personal,97
+2019,Interior,Falsedad,63
+2019,Interior,Acoso sexual,56
+2019,Interior,Otros delitos que atentan contra la libertad y la seguridad sexual,53
+2019,Interior,Corrupción de menores,40
+2019,Interior,Contra el medio ambiente,28
+2019,Interior,Hostigamiento sexual,19
+2019,Interior,Feminicidio,15
+2019,Interior,Electorales,8
+2019,Interior,Secuestro,5
+2019,Interior,Aborto,3
+2019,Interior,Trata de personas,2
+2019,Interior,Evasión de presos,0
+2019,Interior,Incesto,0
+2019,Interior,Incumplimiento de obligaciones de asistencia familiar,0
+2019,Interior,Otros delitos contra el patrimonio,0
+2019,Interior,Otros delitos contra la sociedad,0
+2019,Interior,Otros delitos que atentan contra la vida y la integridad corporal,0
+2019,Interior,Rapto,0
+2019,Interior,Tráfico de menores,0
+2019,Interior,Violación equiparada,0
+2019,Interior,Violencia de género en todas sus modalidades distinta a la violencia familiar,0
+2020,AMG,Robo,46282
+2020,AMG,Otros delitos del Fuero Común,9393
+2020,AMG,Violencia familiar,8565
+2020,AMG,Amenazas,7435
+2020,AMG,Lesiones,6206
+2020,AMG,Fraude,5500
+2020,AMG,Daño a la propiedad,4015
+2020,AMG,Homicidio,1740
+2020,AMG,Abuso sexual,1402
+2020,AMG,Abuso de confianza,1375
+2020,AMG,Despojo,1090
+2020,AMG,Narcomenudeo,758
+2020,AMG,Otros delitos que atentan contra la libertad personal,734
+2020,AMG,Otros delitos contra la familia,554
+2020,AMG,Falsificación,500
+2020,AMG,Extorsión,433
+2020,AMG,Otros delitos que atentan contra la libertad y la seguridad sexual,283
+2020,AMG,Violación simple,275
+2020,AMG,Delitos cometidos por servidores públicos,209
+2020,AMG,Acoso sexual,205
+2020,AMG,Allanamiento de morada,134
+2020,AMG,Corrupción de menores,84
+2020,AMG,Falsedad,65
+2020,AMG,Contra el medio ambiente,61
+2020,AMG,Feminicidio,52
+2020,AMG,Hostigamiento sexual,43
+2020,AMG,Otros delitos contra la sociedad,12
+2020,AMG,Secuestro,11
+2020,AMG,Trata de personas,10
+2020,AMG,Electorales,7
+2020,AMG,Aborto,6
+2020,AMG,Evasión de presos,2
+2020,AMG,Tráfico de menores,1
+2020,AMG,Incesto,0
+2020,AMG,Incumplimiento de obligaciones de asistencia familiar,0
+2020,AMG,Otros delitos contra el patrimonio,0
+2020,AMG,Otros delitos que atentan contra la vida y la integridad corporal,0
+2020,AMG,Rapto,0
+2020,AMG,Violación equiparada,0
+2020,AMG,Violencia de género en todas sus modalidades distinta a la violencia familiar,0
+2020,Interior,Robo,7142
+2020,Interior,Lesiones,3814
+2020,Interior,Violencia familiar,3315
+2020,Interior,Daño a la propiedad,3054
+2020,Interior,Amenazas,2372
+2020,Interior,Fraude,1595
+2020,Interior,Otros delitos del Fuero Común,1375
+2020,Interior,Falsificación,1166
+2020,Interior,Homicidio,882
+2020,Interior,Despojo,766
+2020,Interior,Abuso sexual,721
+2020,Interior,Otros delitos contra la familia,520
+2020,Interior,Abuso de confianza,450
+2020,Interior,Narcomenudeo,304
+2020,Interior,Extorsión,294
+2020,Interior,Otros delitos que atentan contra la libertad personal,239
+2020,Interior,Delitos cometidos por servidores públicos,126
+2020,Interior,Allanamiento de morada,120
+2020,Interior,Violación simple,92
+2020,Interior,Acoso sexual,57
+2020,Interior,Falsedad,50
+2020,Interior,Otros delitos que atentan contra la libertad y la seguridad sexual,48
+2020,Interior,Corrupción de menores,44
+2020,Interior,Feminicidio,18
+2020,Interior,Hostigamiento sexual,16
+2020,Interior,Contra el medio ambiente,11
+2020,Interior,Aborto,6
+2020,Interior,Trata de personas,5
+2020,Interior,Secuestro,2
+2020,Interior,Electorales,1
+2020,Interior,Evasión de presos,0
+2020,Interior,Incesto,0
+2020,Interior,Incumplimiento de obligaciones de asistencia familiar,0
+2020,Interior,Otros delitos contra el patrimonio,0
+2020,Interior,Otros delitos contra la sociedad,0
+2020,Interior,Otros delitos que atentan contra la vida y la integridad corporal,0
+2020,Interior,Rapto,0
+2020,Interior,Tráfico de menores,0
+2020,Interior,Violación equiparada,0
+2020,Interior,Violencia de género en todas sus modalidades distinta a la violencia familiar,0
+2021,AMG,Robo,45041
+2021,AMG,Otros delitos del Fuero Común,9684
+2021,AMG,Violencia familiar,9093
+2021,AMG,Amenazas,7653
+2021,AMG,Lesiones,6451
+2021,AMG,Fraude,6135
+2021,AMG,Daño a la propiedad,3808
+2021,AMG,Homicidio,1856
+2021,AMG,Abuso sexual,1554
+2021,AMG,Otros delitos que atentan contra la libertad y la seguridad sexual,1032
+2021,AMG,Abuso de confianza,961
+2021,AMG,Despojo,955
+2021,AMG,Narcomenudeo,926
+2021,AMG,Otros delitos que atentan contra la libertad personal,645
+2021,AMG,Falsificación,515
+2021,AMG,Otros delitos contra la familia,465
+2021,AMG,Violación simple,392
+2021,AMG,Extorsión,350
+2021,AMG,Delitos cometidos por servidores públicos,313
+2021,AMG,Acoso sexual,194
+2021,AMG,Allanamiento de morada,134
+2021,AMG,Corrupción de menores,93
+2021,AMG,Falsedad,67
+2021,AMG,Feminicidio,63
+2021,AMG,Hostigamiento sexual,49
+2021,AMG,Contra el medio ambiente,27
+2021,AMG,Secuestro,13
+2021,AMG,Trata de personas,10
+2021,AMG,Aborto,6
+2021,AMG,Evasión de presos,6
+2021,AMG,Otros delitos contra la sociedad,4
+2021,AMG,Electorales,1
+2021,AMG,Tráfico de menores,1
+2021,AMG,Incesto,0
+2021,AMG,Incumplimiento de obligaciones de asistencia familiar,0
+2021,AMG,Otros delitos contra el patrimonio,0
+2021,AMG,Otros delitos que atentan contra la vida y la integridad corporal,0
+2021,AMG,Rapto,0
+2021,AMG,Violación equiparada,0
+2021,AMG,Violencia de género en todas sus modalidades distinta a la violencia familiar,0
+2021,Interior,Robo,7026
+2021,Interior,Lesiones,4139
+2021,Interior,Daño a la propiedad,3771
+2021,Interior,Violencia familiar,3520
+2021,Interior,Amenazas,2576
+2021,Interior,Fraude,1849
+2021,Interior,Otros delitos del Fuero Común,1312
+2021,Interior,Falsificación,929
+2021,Interior,Homicidio,878
+2021,Interior,Abuso sexual,814
+2021,Interior,Despojo,716
+2021,Interior,Otros delitos contra la familia,461
+2021,Interior,Abuso de confianza,456
+2021,Interior,Extorsión,215
+2021,Interior,Narcomenudeo,208
+2021,Interior,Otros delitos que atentan contra la libertad y la seguridad sexual,178
+2021,Interior,Otros delitos que atentan contra la libertad personal,162
+2021,Interior,Allanamiento de morada,133
+2021,Interior,Violación simple,121
+2021,Interior,Delitos cometidos por servidores públicos,116
+2021,Interior,Acoso sexual,82
+2021,Interior,Falsedad,44
+2021,Interior,Hostigamiento sexual,30
+2021,Interior,Corrupción de menores,23
+2021,Interior,Feminicidio,14
+2021,Interior,Contra el medio ambiente,7
+2021,Interior,Secuestro,6
+2021,Interior,Aborto,5
+2021,Interior,Electorales,5
+2021,Interior,Trata de personas,3
+2021,Interior,Otros delitos contra la sociedad,2
+2021,Interior,Evasión de presos,0
+2021,Interior,Incesto,0
+2021,Interior,Incumplimiento de obligaciones de asistencia familiar,0
+2021,Interior,Otros delitos contra el patrimonio,0
+2021,Interior,Otros delitos que atentan contra la vida y la integridad corporal,0
+2021,Interior,Rapto,0
+2021,Interior,Tráfico de menores,0
+2021,Interior,Violación equiparada,0
+2021,Interior,Violencia de género en todas sus modalidades distinta a la violencia familiar,0
+2022,AMG,Robo,39359
+2022,AMG,Otros delitos del Fuero Común,12155
+2022,AMG,Violencia familiar,10098
+2022,AMG,Amenazas,7693
+2022,AMG,Fraude,6884
+2022,AMG,Lesiones,6640
+2022,AMG,Daño a la propiedad,3606
+2022,AMG,Abuso sexual,2368
+2022,AMG,Homicidio,1722
+2022,AMG,Otros delitos que atentan contra la libertad y la seguridad sexual,1299
+2022,AMG,Narcomenudeo,1177
+2022,AMG,Abuso de confianza,1114
+2022,AMG,Despojo,772
+2022,AMG,Falsificación,709
+2022,AMG,Otros delitos que atentan contra la libertad personal,678
+2022,AMG,Otros delitos contra la familia,580
+2022,AMG,Extorsión,415
+2022,AMG,Violación simple,355
+2022,AMG,Delitos cometidos por servidores públicos,285
+2022,AMG,Acoso sexual,217
+2022,AMG,Allanamiento de morada,152
+2022,AMG,Falsedad,98
+2022,AMG,Corrupción de menores,84
+2022,AMG,Hostigamiento sexual,62
+2022,AMG,Contra el medio ambiente,41
+2022,AMG,Violación equiparada,38
+2022,AMG,Feminicidio,24
+2022,AMG,Secuestro,19
+2022,AMG,Trata de personas,5
+2022,AMG,Evasión de presos,4
+2022,AMG,Aborto,2
+2022,AMG,Otros delitos contra la sociedad,2
+2022,AMG,Electorales,0
+2022,AMG,Incesto,0
+2022,AMG,Incumplimiento de obligaciones de asistencia familiar,0
+2022,AMG,Otros delitos contra el patrimonio,0
+2022,AMG,Otros delitos que atentan contra la vida y la integridad corporal,0
+2022,AMG,Rapto,0
+2022,AMG,Tráfico de menores,0
+2022,AMG,Violencia de género en todas sus modalidades distinta a la violencia familiar,0
+2022,Interior,Robo,6822
+2022,Interior,Lesiones,4547
+2022,Interior,Violencia familiar,3648
+2022,Interior,Daño a la propiedad,3403
+2022,Interior,Amenazas,2349
+2022,Interior,Fraude,1866
+2022,Interior,Otros delitos del Fuero Común,1377
+2022,Interior,Homicidio,925
+2022,Interior,Abuso sexual,903
+2022,Interior,Despojo,670
+2022,Interior,Falsificación,587
+2022,Interior,Otros delitos contra la familia,436
+2022,Interior,Abuso de confianza,384
+2022,Interior,Otros delitos que atentan contra la libertad y la seguridad sexual,292
+2022,Interior,Extorsión,245
+2022,Interior,Otros delitos que atentan contra la libertad personal,187
+2022,Interior,Narcomenudeo,145
+2022,Interior,Violación simple,126
+2022,Interior,Delitos cometidos por servidores públicos,120
+2022,Interior,Acoso sexual,103
+2022,Interior,Allanamiento de morada,101
+2022,Interior,Falsedad,58
+2022,Interior,Hostigamiento sexual,29
+2022,Interior,Corrupción de menores,25
+2022,Interior,Feminicidio,17
+2022,Interior,Contra el medio ambiente,8
+2022,Interior,Aborto,3
+2022,Interior,Secuestro,3
+2022,Interior,Violación equiparada,3
+2022,Interior,Trata de personas,2
+2022,Interior,Tráfico de menores,1
+2022,Interior,Electorales,0
+2022,Interior,Evasión de presos,0
+2022,Interior,Incesto,0
+2022,Interior,Incumplimiento de obligaciones de asistencia familiar,0
+2022,Interior,Otros delitos contra el patrimonio,0
+2022,Interior,Otros delitos contra la sociedad,0
+2022,Interior,Otros delitos que atentan contra la vida y la integridad corporal,0
+2022,Interior,Rapto,0
+2022,Interior,Violencia de género en todas sus modalidades distinta a la violencia familiar,0
+2023,AMG,Robo,35079
+2023,AMG,Otros delitos del Fuero Común,14584
+2023,AMG,Violencia familiar,12486
+2023,AMG,Fraude,8012
+2023,AMG,Amenazas,7459
+2023,AMG,Lesiones,7015
+2023,AMG,Abuso sexual,3882
+2023,AMG,Daño a la propiedad,1847
+2023,AMG,Narcomenudeo,1597
+2023,AMG,Homicidio,1573
+2023,AMG,Abuso de confianza,1382
+2023,AMG,Otros delitos que atentan contra la libertad y la seguridad sexual,995
+2023,AMG,Otros delitos que atentan contra la libertad personal,919
+2023,AMG,Despojo,915
+2023,AMG,Otros delitos contra la familia,743
+2023,AMG,Falsificación,720
+2023,AMG,Violación simple,430
+2023,AMG,Extorsión,347
+2023,AMG,Delitos cometidos por servidores públicos,313
+2023,AMG,Acoso sexual,247
+2023,AMG,Corrupción de menores,104
+2023,AMG,Hostigamiento sexual,100
+2023,AMG,Allanamiento de morada,94
+2023,AMG,Falsedad,92
+2023,AMG,Violación equiparada,39
+2023,AMG,Contra el medio ambiente,33
+2023,AMG,Feminicidio,24
+2023,AMG,Secuestro,14
+2023,AMG,Aborto,5
+2023,AMG,Otros delitos contra la sociedad,4
+2023,AMG,Evasión de presos,3
+2023,AMG,Trata de personas,1
+2023,AMG,Electorales,0
+2023,AMG,Incesto,0
+2023,AMG,Incumplimiento de obligaciones de asistencia familiar,0
+2023,AMG,Otros delitos contra el patrimonio,0
+2023,AMG,Otros delitos que atentan contra la vida y la integridad corporal,0
+2023,AMG,Rapto,0
+2023,AMG,Tráfico de menores,0
+2023,AMG,Violencia de género en todas sus modalidades distinta a la violencia familiar,0
+2023,Interior,Robo,7045
+2023,Interior,Lesiones,5793
+2023,Interior,Violencia familiar,4405
+2023,Interior,Amenazas,2588
+2023,Interior,Fraude,2228
+2023,Interior,Otros delitos del Fuero Común,1636
+2023,Interior,Daño a la propiedad,1064
+2023,Interior,Abuso sexual,1061
+2023,Interior,Homicidio,920
+2023,Interior,Falsificación,639
+2023,Interior,Despojo,621
+2023,Interior,Otros delitos contra la familia,469
+2023,Interior,Abuso de confianza,356
+2023,Interior,Otros delitos que atentan contra la libertad y la seguridad sexual,349
+2023,Interior,Extorsión,238
+2023,Interior,Otros delitos que atentan contra la libertad personal,146
+2023,Interior,Narcomenudeo,138
+2023,Interior,Violación simple,129
+2023,Interior,Allanamiento de morada,109
+2023,Interior,Acoso sexual,107
+2023,Interior,Delitos cometidos por servidores públicos,101
+2023,Interior,Falsedad,48
+2023,Interior,Hostigamiento sexual,25
+2023,Interior,Corrupción de menores,24
+2023,Interior,Contra el medio ambiente,14
+2023,Interior,Feminicidio,13
+2023,Interior,Violación equiparada,8
+2023,Interior,Aborto,3
+2023,Interior,Secuestro,2
+2023,Interior,Evasión de presos,1
+2023,Interior,Trata de personas,1
+2023,Interior,Electorales,0
+2023,Interior,Incesto,0
+2023,Interior,Incumplimiento de obligaciones de asistencia familiar,0
+2023,Interior,Otros delitos contra el patrimonio,0
+2023,Interior,Otros delitos contra la sociedad,0
+2023,Interior,Otros delitos que atentan contra la vida y la integridad corporal,0
+2023,Interior,Rapto,0
+2023,Interior,Tráfico de menores,0
+2023,Interior,Violencia de género en todas sus modalidades distinta a la violencia familiar,0
+2024,AMG,Robo,31888
+2024,AMG,Otros delitos del Fuero Común,12502
+2024,AMG,Violencia familiar,10496
+2024,AMG,Fraude,9734
+2024,AMG,Amenazas,7394
+2024,AMG,Lesiones,7040
+2024,AMG,Abuso sexual,3985
+2024,AMG,Narcomenudeo,1859
+2024,AMG,Homicidio,1598
+2024,AMG,Daño a la propiedad,1444
+2024,AMG,Abuso de confianza,1237
+2024,AMG,Otros delitos que atentan contra la libertad y la seguridad sexual,855
+2024,AMG,Despojo,772
+2024,AMG,Falsificación,727
+2024,AMG,Otros delitos que atentan contra la libertad personal,723
+2024,AMG,Incumplimiento de obligaciones de asistencia familiar,494
+2024,AMG,Violación simple,388
+2024,AMG,Delitos cometidos por servidores públicos,320
+2024,AMG,Extorsión,320
+2024,AMG,Otros delitos contra la familia,269
+2024,AMG,Acoso sexual,200
+2024,AMG,Falsedad,172
+2024,AMG,Otros delitos que atentan contra la vida y la integridad corporal,130
+2024,AMG,Allanamiento de morada,106
+2024,AMG,Corrupción de menores,102
+2024,AMG,Hostigamiento sexual,82
+2024,AMG,Violación equiparada,38
+2024,AMG,Contra el medio ambiente,30
+2024,AMG,Feminicidio,25
+2024,AMG,Secuestro,13
+2024,AMG,Aborto,9
+2024,AMG,Trata de personas,8
+2024,AMG,Evasión de presos,5
+2024,AMG,Otros delitos contra la sociedad,5
+2024,AMG,Electorales,0
+2024,AMG,Incesto,0
+2024,AMG,Otros delitos contra el patrimonio,0
+2024,AMG,Rapto,0
+2024,AMG,Tráfico de menores,0
+2024,AMG,Violencia de género en todas sus modalidades distinta a la violencia familiar,0
+2024,Interior,Robo,6561
+2024,Interior,Lesiones,5931
+2024,Interior,Violencia familiar,4049
+2024,Interior,Amenazas,2383
+2024,Interior,Fraude,2121
+2024,Interior,Otros delitos del Fuero Común,1583
+2024,Interior,Abuso sexual,1307
+2024,Interior,Homicidio,813
+2024,Interior,Daño a la propiedad,807
+2024,Interior,Despojo,508
+2024,Interior,Falsificación,481
+2024,Interior,Incumplimiento de obligaciones de asistencia familiar,397
+2024,Interior,Otros delitos que atentan contra la libertad y la seguridad sexual,375
+2024,Interior,Abuso de confianza,318
+2024,Interior,Extorsión,221
+2024,Interior,Otros delitos que atentan contra la libertad personal,182
+2024,Interior,Narcomenudeo,124
+2024,Interior,Violación simple,121
+2024,Interior,Acoso sexual,96
+2024,Interior,Allanamiento de morada,91
+2024,Interior,Delitos cometidos por servidores públicos,81
+2024,Interior,Otros delitos contra la familia,75
+2024,Interior,Falsedad,56
+2024,Interior,Otros delitos que atentan contra la vida y la integridad corporal,47
+2024,Interior,Hostigamiento sexual,29
+2024,Interior,Contra el medio ambiente,18
+2024,Interior,Corrupción de menores,18
+2024,Interior,Aborto,12
+2024,Interior,Feminicidio,11
+2024,Interior,Electorales,8
+2024,Interior,Violación equiparada,6
+2024,Interior,Secuestro,3
+2024,Interior,Tráfico de menores,3
+2024,Interior,Otros delitos contra la sociedad,2
+2024,Interior,Trata de personas,2
+2024,Interior,Evasión de presos,0
+2024,Interior,Incesto,0
+2024,Interior,Otros delitos contra el patrimonio,0
+2024,Interior,Rapto,0
+2024,Interior,Violencia de género en todas sus modalidades distinta a la violencia familiar,0
+2025,AMG,Robo,26378
+2025,AMG,Otros delitos del Fuero Común,11769
+2025,AMG,Fraude,8420
+2025,AMG,Violencia familiar,8236
+2025,AMG,Lesiones,8099
+2025,AMG,Amenazas,7148
+2025,AMG,Abuso sexual,4006
+2025,AMG,Narcomenudeo,2276
+2025,AMG,Homicidio,1305
+2025,AMG,Daño a la propiedad,1296
+2025,AMG,Otros delitos que atentan contra la libertad y la seguridad sexual,927
+2025,AMG,Abuso de confianza,816
+2025,AMG,Falsificación,754
+2025,AMG,Despojo,720
+2025,AMG,Otros delitos que atentan contra la libertad personal,476
+2025,AMG,Incumplimiento de obligaciones de asistencia familiar,469
+2025,AMG,Violación simple,397
+2025,AMG,Delitos cometidos por servidores públicos,342
+2025,AMG,Otros delitos contra la familia,206
+2025,AMG,Extorsión,192
+2025,AMG,Acoso sexual,145
+2025,AMG,Corrupción de menores,126
+2025,AMG,Allanamiento de morada,120
+2025,AMG,Otros delitos que atentan contra la vida y la integridad corporal,93
+2025,AMG,Falsedad,81
+2025,AMG,Hostigamiento sexual,63
+2025,AMG,Contra el medio ambiente,34
+2025,AMG,Feminicidio,23
+2025,AMG,Violación equiparada,14
+2025,AMG,Secuestro,12
+2025,AMG,Trata de personas,5
+2025,AMG,Aborto,4
+2025,AMG,Otros delitos contra la sociedad,2
+2025,AMG,Evasión de presos,1
+2025,AMG,Electorales,0
+2025,AMG,Incesto,0
+2025,AMG,Otros delitos contra el patrimonio,0
+2025,AMG,Rapto,0
+2025,AMG,Tráfico de menores,0
+2025,AMG,Violencia de género en todas sus modalidades distinta a la violencia familiar,0
+2025,Interior,Robo,5867
+2025,Interior,Lesiones,5832
+2025,Interior,Violencia familiar,4081
+2025,Interior,Amenazas,2594
+2025,Interior,Fraude,2226
+2025,Interior,Otros delitos del Fuero Común,2025
+2025,Interior,Abuso sexual,1409
+2025,Interior,Daño a la propiedad,879
+2025,Interior,Falsificación,840
+2025,Interior,Homicidio,716
+2025,Interior,Despojo,537
+2025,Interior,Incumplimiento de obligaciones de asistencia familiar,387
+2025,Interior,Otros delitos que atentan contra la libertad y la seguridad sexual,384
+2025,Interior,Abuso de confianza,375
+2025,Interior,Extorsión,241
+2025,Interior,Otros delitos que atentan contra la libertad personal,198
+2025,Interior,Narcomenudeo,167
+2025,Interior,Acoso sexual,115
+2025,Interior,Violación simple,115
+2025,Interior,Allanamiento de morada,106
+2025,Interior,Otros delitos contra la familia,97
+2025,Interior,Delitos cometidos por servidores públicos,83
+2025,Interior,Falsedad,76
+2025,Interior,Corrupción de menores,42
+2025,Interior,Otros delitos que atentan contra la vida y la integridad corporal,30
+2025,Interior,Hostigamiento sexual,17
+2025,Interior,Contra el medio ambiente,10
+2025,Interior,Feminicidio,9
+2025,Interior,Aborto,6
+2025,Interior,Trata de personas,4
+2025,Interior,Secuestro,3
+2025,Interior,Violación equiparada,2
+2025,Interior,Evasión de presos,1
+2025,Interior,Electorales,0
+2025,Interior,Incesto,0
+2025,Interior,Otros delitos contra el patrimonio,0
+2025,Interior,Otros delitos contra la sociedad,0
+2025,Interior,Rapto,0
+2025,Interior,Tráfico de menores,0
+2025,Interior,Violencia de género en todas sus modalidades distinta a la violencia familiar,0
