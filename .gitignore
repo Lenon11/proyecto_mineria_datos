@@ -166,12 +166,14 @@ __marimo__/
 # Data Mining specific ignores
 # ==============================
 
-# Data directories - DON'T COMMIT RAW DATA
-/data/
-data/
-datasets/
+# Ignorar solo la carpeta raw
+data/raw/
+datasets/raw/
+
+# Pero mantener el resto de data/
+!data/processed/
+!data/interim/
 !data/.gitkeep
-!datasets/.gitkeep
 
 # Large model files
 *.h5
@@ -186,6 +188,26 @@ datasets/
 *.tflite
 
 # Data processing artifacts
+# Data processing artifacts - Excluir CSVs solo en data/raw/
+data/raw/*.csv
+data/raw/*.xlsx
+data/raw/*.xls
+data/raw/*.parquet
+data/raw/*.feather
+data/raw/*.json
+data/raw/*.jsonl
+
+# Pero permitir CSVs en processed, interim y datasets
+!data/processed/*.csv
+!data/processed/*.xlsx
+!data/processed/*.parquet
+!data/interim/*.csv
+!data/interim/*.xlsx
+!data/interim/*.parquet
+!datasets/*.csv
+!datasets/*.xlsx
+
+# Para el resto del proyecto, ignorar archivos de datos (excepto notebooks)
 *.csv
 *.xlsx
 *.xls
